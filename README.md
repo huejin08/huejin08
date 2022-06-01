@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-:desktop_computer: Technologies: PHP (Laravel), JavaScript, MySQL
+:desktop_computer: <strong>Technologies:</strong> PHP (Laravel), JavaScript, MySQL
 <br>
-⚙️ What I use: Ubuntu, Visual Studio Code
+⚙️ <strong>What I use:</strong> Ubuntu, Visual Studio Code
+<br>
+:briefcase: <strong>Current Role:</strong> System/Server Administrator
 <!--
 **morsomnibus/morsomnibus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
