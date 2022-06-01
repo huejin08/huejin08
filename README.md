@@ -2,7 +2,7 @@
 
 :desktop_computer: <strong>Technologies:</strong> PHP (Laravel), JavaScript, MySQL
 <br>
-⚙️ <strong>What I use:</strong> Ubuntu, Visual Studio Code
+⚙️ <strong>What I use:</strong> Ubuntu, Kali, Visual Studio Code
 <br>
 :briefcase: <strong>Current Role:</strong> System/Server Administrator
 <br>
