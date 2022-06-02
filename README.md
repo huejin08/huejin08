@@ -6,7 +6,7 @@
 <br>
 :briefcase: <strong>Current Role:</strong> System/Server Administrator
 <br>
-🌱 <strong>I’m currently learning</strong>: Python, Data Science, Cybersecurity
+🌱 <strong>I’m currently learning</strong>: R, Python, Data Science, Cybersecurity
 
 <!--
 **morsomnibus/morsomnibus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
