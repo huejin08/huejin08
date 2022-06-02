@@ -8,12 +8,11 @@
 <br>
 🌱 <strong>I’m currently learning</strong>: R, Python, Data Science, Machine Learning, Cybersecurity, ReactJS
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morsomnibus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://git-readme-stats-gcf75x2nk-morsomnibus.vercel.app/api/top-langs/?username=morsomnibus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <!-- [![morsomnibus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=morsomnibus)](https://github.com/anuraghazra/github-readme-stats)
 <br> -->
-[![morsomnibus's GitHub stats](https://github-readme-stats.vercel.app/api?username=morsomnibus&count_private=true&hide=contribs,prs&show_icons=true)
-)](https://github.com/anuraghazra/github-readme-stats)
+[![morsomnibus's GitHub stats](https://git-readme-stats-gcf75x2nk-morsomnibus.vercel.app/api?username=morsomnibus&count_private=true&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
