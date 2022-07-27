@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-:desktop_computer: <strong>Technologies:</strong> PHP (Laravel), JavaScript, MySQL, pfSense
+:desktop_computer: <strong>Technologies:</strong> PHP (Laravel), JavaScript, MySQL
 <br>
-⚙️ <strong>What I use:</strong> Ubuntu, Visual Studio Code
+🌱 <strong>I’m currently learning</strong>: VueJS, TailwindCSS
 <br>
-:briefcase: <strong>Current Role:</strong> System/Server Administrator
-<br>
-🌱 <strong>I’m currently learning</strong>: R, Python, Data Science, Machine Learning, Cybersecurity, ReactJS
+
+
+<strong>Queued</strong>: Python, Data Science, Cybersecurity
+
+<!-- :briefcase: <strong>Current Role:</strong> System/Server Administrator <br> 
+⚙️ <strong>What I use:</strong> Ubuntu, Visual Studio Code <br>
+-->
 
 [![Top Languages](https://git-readme-stats-gcf75x2nk-morsomnibus.vercel.app/api/top-langs/?username=morsomnibus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
