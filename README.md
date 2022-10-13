@@ -20,7 +20,7 @@
 
 Worked at the following projects: <br>
 <a target="_blank" href="https://gad.laguna.gov.ph">Province of Laguna - Gender and Developent Focal Point System</a><br>
-<a target="_blank" href="https://iskolar.laguna.gov.ph">Scholarship Program of Laguna</a>
+<a target="_blank" href="https://iskolar.laguna.gov.ph">Scholarship Program of Laguna</a><br>
 <a target="_blank" href="https://covid19.laguna.gov.ph">Laguna COVID19 Infection Map</a>
 <!--
 **morsomnibus/morsomnibus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
