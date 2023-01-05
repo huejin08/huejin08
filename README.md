@@ -18,11 +18,11 @@
 <br> -->
 [![morsomnibus's GitHub stats](https://git-readme-stats-gcf75x2nk-morsomnibus.vercel.app/api?username=morsomnibus&count_private=true&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Worked at the following projects which is used by the public to avail the services of the Provincial Government of Laguna: <br>
-<a target="_blank" href="https://gad.laguna.gov.ph">Province of Laguna - Gender and Developent Focal Point System</a><br>
-<a target="_blank" href="https://iskolar.laguna.gov.ph">Scholarship Program of Laguna</a><br>
-<a target="_blank" href="https://covid19.laguna.gov.ph">Laguna COVID19 Infection Map</a><br>
-and many other in-house projects that is used by the offices/departments.
+<!-- Worked at the following projects which is used by the public to avail the services of the Provincial Government of Laguna: <br> -->
+<!-- <a target="_blank" href="https://gad.laguna.gov.ph">Province of Laguna - Gender and Developent Focal Point System</a><br> -->
+<!-- <a target="_blank" href="https://iskolar.laguna.gov.ph">Scholarship Program of Laguna</a><br> -->
+<!-- <a target="_blank" href="https://covid19.laguna.gov.ph">Laguna COVID19 Infection Map</a><br> -->
+<!-- and many other in-house projects that is used by the offices/departments. -->
 <!--
 **morsomnibus/morsomnibus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
