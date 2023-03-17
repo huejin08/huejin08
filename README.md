@@ -2,7 +2,7 @@
 
 :desktop_computer: <strong>Technologies:</strong> PHP (Laravel), JavaScript, MySQL
 <br>
-🌱 <strong>I’m currently studying</strong>: Vue.js, Tailwind CSS
+🌱 <strong>I’m currently studying</strong>: ReactJS, Tailwind CSS
 <br>
 
 
