@@ -6,7 +6,8 @@
 <br>
 
 
-<strong>Queued</strong>: Python, Data Science, Cybersecurity
+<strong>Queued</strong>: Python
+<strong>Maybe(?)</strong>: Cybersecurity
 
 <!-- :briefcase: <strong>Current Role:</strong> System/Server Administrator <br> 
 ⚙️ <strong>What I use:</strong> Ubuntu, Visual Studio Code <br>
