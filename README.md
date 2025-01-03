@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-:desktop_computer: <strong>Technologies:</strong> PHP (Laravel), JavaScript, MySQL
+:desktop_computer: <strong>Technologies:</strong> PHP (Laravel, Yii2), JavaScript, MySQL, NodeJS
 <br>
 🌱 <strong>I’m currently studying</strong>: ReactJS, Tailwind CSS
 <br>
 
 
 <strong>Queued</strong>: Python
-<br>
-<strong>Maybe(?)</strong>: Cybersecurity
 
 <!-- :briefcase: <strong>Current Role:</strong> System/Server Administrator <br> 
 ⚙️ <strong>What I use:</strong> Ubuntu, Visual Studio Code <br>
