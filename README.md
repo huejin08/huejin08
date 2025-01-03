@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:desktop_computer: <strong>Technologies:</strong> PHP (Laravel, Yii2), JavaScript, MySQL, NodeJS
+:desktop_computer: <strong>Technologies:</strong> PHP (Laravel, Yii2), JavaScript, MySQL, PostgreSQL, NodeJS
 <br>
 🌱 <strong>I’m currently studying</strong>: ReactJS, Tailwind CSS
 <br>
