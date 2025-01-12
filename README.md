@@ -5,6 +5,7 @@
 🌱 <strong>I’m currently studying</strong>: ReactJS, Tailwind CSS
 <br>
 
+Inactive here, working on a bitbucket repo!
 
 <strong>Queued</strong>: Python
 
