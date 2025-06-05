@@ -13,11 +13,11 @@ Inactive here, working on a bitbucket repo!
 ⚙️ <strong>What I use:</strong> Ubuntu, Visual Studio Code <br>
 -->
 
-[![Top Languages](https://git-readme-stats-gcf75x2nk-morsomnibus.vercel.app/api/top-langs/?username=morsomnibus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://git-readme-stats-gcf75x2nk-morsomnibus.vercel.app/api/top-langs/?username=huejin08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <!-- [![morsomnibus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=morsomnibus)](https://github.com/anuraghazra/github-readme-stats)
 <br> -->
-[![morsomnibus's GitHub stats](https://git-readme-stats-gcf75x2nk-morsomnibus.vercel.app/api?username=morsomnibus&count_private=true&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![morsomnibus's GitHub stats](https://git-readme-stats-gcf75x2nk-morsomnibus.vercel.app/api?username=huejin08&count_private=true&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Worked at the following projects which is used by the public to avail the services of the Provincial Government of Laguna: <br> -->
 <!-- <a target="_blank" href="https://gad.laguna.gov.ph">Province of Laguna - Gender and Developent Focal Point System</a><br> -->
